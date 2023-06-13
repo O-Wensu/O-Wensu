@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-Wensu&show_icons=true&theme=omni)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Wensu&layout=compact&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Wensu&count_private=true&layout=compact&theme=omni)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojk401)](https://solved.ac/sojk401)
 
 ## 🔨Skills
