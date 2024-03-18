@@ -11,11 +11,10 @@
 ## 🔨Stacks
 <div align=center> 
   <img src="https://img.shields.io/badge/Java17-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-9D74D5.svg?&style=for-the-badge&logo=C%23#&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
-  <br>
-
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/spring_security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring_data_jpa-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white">
@@ -25,6 +24,7 @@
 
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
